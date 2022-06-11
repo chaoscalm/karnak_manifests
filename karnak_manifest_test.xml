@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device Tree -->
-    <project name="srccrow/android_device_amazon_karnak_test" path="device/amazon/karnak/test" remote="github" revision="lineage-18.1"/>
+    <project name="srccrow/android_device_amazon_karnak_test" path="device/amazon/karnak" remote="github" revision="lineage-18.1"/>
 
     <!-- Kernel sources -->
     <project name="mt8163/android_kernel_amazon_karnak_4.9" path="kernel/amazon/karnak" remote="github" revision="lineage-18.1"/>
